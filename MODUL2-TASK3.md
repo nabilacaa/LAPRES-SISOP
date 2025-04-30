@@ -1,4 +1,4 @@
-## Task 4 - Cella's Manhwa
+## Task 3 - Cella's Manhwa
 
 Membantu Cella untuk mengumpulkan informasi dan foto dari berbagai manhwa favoritnya dengan skrip otomatis.
 
