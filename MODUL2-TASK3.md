@@ -289,11 +289,11 @@ b. Seal the Scrolls
 
 Folder :
 
-![Screenshot from 2025-04-30 14-55-06](https://github.com/user-attachments/assets/840d266d-0206-4f89-b166-fe840d7ba1f2)
+![Screenshot from 2025-04-30 14-55-06](https://drive.google.com/uc?id=176r7mF4c_XYkPaq9JNqPfHi6VWYNWjvO)
 
 Isi folder :
 
-![Screenshot from 2025-04-30 14-55-39](https://github.com/user-attachments/assets/0d649dcd-69de-453b-aefa-49854fff9228)
+![Screenshot from 2025-04-30 14-55-39](https://drive.google.com/uc?id=1WCpZtfvc4S1uN95u6TZPCnkF1KHqq7s7)
 
 
 **Penjelasan :**
@@ -414,31 +414,31 @@ int main() {
 
 Terminal :
 
-![Screenshot from 2025-04-30 15-36-12](https://github.com/user-attachments/assets/f87ff0d4-3eb0-4f91-96aa-41d14aeef51c)
+![Screenshot from 2025-04-30 15-36-12](https://drive.google.com/uc?id=1mkUhvGtPHb-X_qayxGPqjXjyLJajJLbW)
 
 Folder :
 
-![Screenshot from 2025-04-30 15-09-05](https://github.com/user-attachments/assets/464d5220-2397-4ed3-921a-4091fdc1b56a)
+![Screenshot from 2025-04-30 15-09-05](https://drive.google.com/uc?id=1ew1MbntzBu3lVK1Y3BY6lD2L2dd2Dtr4)
 
 Isi folder Heroines :
 
-![Screenshot from 2025-04-30 15-09-15](https://github.com/user-attachments/assets/c1830f4f-b5cb-4cde-9864-648190a8293d)
+![Screenshot from 2025-04-30 15-09-15](https://drive.google.com/uc?id=1al-GFYNW2KTm780VTC15wOI51xIquHW3)
 
 Isi subfolder Adelia :
 
-![Screenshot from 2025-04-30 15-09-24](https://github.com/user-attachments/assets/fdf61177-cbb9-46c4-9f48-5953ab5c2862)
+![Screenshot from 2025-04-30 15-09-24](https://drive.google.com/uc?id=1aD7JVupSFOyl9z8zuFTiAaghD6XgGOlW)
 
 Isi subfolder Artezia :
 
-![Screenshot from 2025-04-30 15-21-38](https://github.com/user-attachments/assets/f515cf01-dd0a-427e-a219-99199b90cfce)
+![Screenshot from 2025-04-30 15-21-38](https://drive.google.com/uc?id=18dVdc6E0rgHj2Pbug2jZ-1SGWszxTKHv)
 
 Isi subfolder Lia :
 
-![Screenshot from 2025-04-30 15-14-50](https://github.com/user-attachments/assets/98e19f71-e330-4f74-bee6-18e49e3b0ae3)
+![Screenshot from 2025-04-30 15-14-50](https://drive.google.com/uc?id=1O81RkvPkw4wLPj__I5BidNix2QcZVzxa)
 
 Isi subfolder Ophelia :
 
-![Screenshot from 2025-04-30 15-15-05](https://github.com/user-attachments/assets/e567cb7b-b391-4cbf-80b2-b3c04ec9a4ee)
+![Screenshot from 2025-04-30 15-15-05](https://drive.google.com/uc?id=1Bta0nJPasWn8_l4quw6JuptsWRRgWb2q)
 
 **Penjelasan :**
 
@@ -627,10 +627,27 @@ Terminal :
 
 Isi folder Heroines :
 
+![Screenshot from 2025-04-30 15-09-15](https://drive.google.com/uc?id=1al-GFYNW2KTm780VTC15wOI51xIquHW3)
+
+Isi subfolder Adelia :
+
+![Subfolder adelia](https://drive.google.com/uc?id=1KMURpvjY_ZqPD0sIYZjHZzEaZ4uGw8r3)
+
+Isi subfolder Artezia :
+
+![Subfolder adelia](https://drive.google.com/uc?id=1k_1utpsjO7PighPW2uz8ev8uwvGsBcKv)
+
+Isi subfolder Lia :
+
+![Subfolder adelia](https://drive.google.com/uc?id=1NP_6tIfyWDLTbusjfX6zTrw-n17OrHk9)
+
+Isi subfolder Ophelia :
+
+![Subfolder adelia](https://drive.google.com/uc?id=16aBFyeHbibxZD5wws8IufP7jlwjDqAds)
 
 Isi folder Archive/Images :
 
-![Screenshot from 2025-04-30 15-39-59](https://github.com/user-attachments/assets/6df45c07-4fa2-4263-a085-b8245e173c18)
+![Screenshot from 2025-04-30 15-39-59](https://drive.google.com/uc?id=1ljnDE_63Bym4-GFwA2xf9afwRvYnRzFA)
 
 
 **Penjelasan :**
