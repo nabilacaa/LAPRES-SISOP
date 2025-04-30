@@ -256,33 +256,33 @@ int main() {
 
 Terminal :
 
-![Screenshot from 2025-04-30 14-49-50](https://github.com/user-attachments/assets/f4a1cb05-939b-4472-8c11-b6983e44686f)
+![Screenshot from 2025-04-30 14-49-50](https://drive.google.com/uc?id=18x3hT0JKENKflQcfVK2E5nCHEqKWSmGk)
 
 a. Summoning the Manhwa Stats
 
 Folder :
 
-![Screenshot from 2025-04-30 14-55-14](https://github.com/user-attachments/assets/f6297084-47c6-4889-a56e-a604deb2c0d2)
+![Screenshot from 2025-04-30 14-55-14](https://drive.google.com/uc?id=1rrfNr7YSjeAuOY30Jc0J5dvCJf6r5g-0)
 
 Isi folder :
 
-![Screenshot from 2025-04-30 14-55-24](https://github.com/user-attachments/assets/0edf2f6d-bb41-4e0d-a722-761206854b71)
+![Screenshot from 2025-04-30 14-55-24](https://drive.google.com/uc?id=1zkvdr8r8zFzNajOJaJZEM9IIvxm8bSk1)
 
 Isi txt (Mistaken_as_the_Monster_Dukes_Wife.txt):
 
-![Screenshot from 2025-04-30 15-04-01](https://github.com/user-attachments/assets/83c0c095-767c-4deb-9d0b-ce9c051c319c)
+![Screenshot from 2025-04-30 15-04-01](https://drive.google.com/uc?id=1glStLIMhev2-xA7f1DUBl3qqttcsryB2)
 
 Isi txt (The_Villainess_Lives_Again.txt):
 
-![Screenshot from 2025-04-30 15-30-44](https://github.com/user-attachments/assets/510ba393-d454-4a3e-891a-c6e578ee67eb)
+![Screenshot from 2025-04-30 15-30-44](https://drive.google.com/uc?id=1XLStLEdpRRllKTV_Y7RP9E-t1oNqeaEf)
 
 Isi txt (No_I_Only_Charmed_the_Princess.txt):
 
-![Screenshot from 2025-04-30 15-30-47](https://github.com/user-attachments/assets/7044ced6-9fc1-45a7-82e8-f131a4ea709b)
+![Screenshot from 2025-04-30 15-30-47](https://drive.google.com/uc?id=1d9Rn0wpXlH1pAzJZiEubMr8c3n_Llq6-)
 
 Isi txt (Darling_Why_Cant_We_Divorce.txt):
 
-![Screenshot from 2025-04-30 15-30-49](https://github.com/user-attachments/assets/7a237be8-3d62-4b6f-9202-f646be0c0944)
+![Screenshot from 2025-04-30 15-30-49](https://drive.google.com/uc?id=1NF8yjw3JXOtuxFLtsBxAWZgqD_OxuPID)
 
 
 b. Seal the Scrolls
